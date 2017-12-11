@@ -1,0 +1,87 @@
+body {
+    background: moccasin;
+}
+
+.wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.logo{
+    height:100px;
+    background: mediumorchid;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.nav{
+    height:50px;
+    background: mediumaquamarine;
+    margin-bottom:5px;
+}
+
+.content{
+    height: 500px;
+    width:100%;
+}
+.search{
+    margin-right:1.5%;
+    height:500px;
+    width:29%;
+    background: lightyellow;
+    float:left;
+}
+
+.banner{
+    margin-right:1%;
+    height:500px;
+    width:39%;
+    background: forestgreen;
+    float:left;
+}
+.banner1{
+    margin-top:89%;
+    width:100%;
+    background: rebeccapurple;
+}
+.banner2{
+    margin-left:5%;
+    margin-top:89%;
+    width:90%;
+    height:200px;
+    background: palevioletred;
+    text-align: left;
+    
+}
+.sidenav{
+    height:295px;
+    width:14%;
+    background: red;
+    float:right;
+}
+.categories{
+    margin-left:1%;
+    height:295px;
+    width:14%;
+    background: blue;
+    float:right;
+}
+.otheroffer{
+    margin-top: 5px;
+    height:200px;
+    width:29%;
+    background: greenyellow;
+    float:right;
+}
+.footer{
+    margin-top:5px;
+    height:50px;
+    width:100%;
+    background: violet;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
